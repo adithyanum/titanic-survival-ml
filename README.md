@@ -47,7 +47,7 @@ This project is part of my learning journey as an aspiring AI engineer, showcasi
 
 ## 📈 Final Accuracy
 
-Achieved an accuracy of **~87%** using a tuned Random Forest classifier with selected features and proper encoding. Evaluated using a confusion matrix and F1-score.
+Achieved an accuracy of **~80%** using a tuned Random Forest classifier with selected features and proper encoding. Evaluated using a confusion matrix and F1-score.
 
 ---
 
